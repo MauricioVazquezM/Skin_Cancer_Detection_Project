@@ -1,5 +1,16 @@
 # Skin Cancer Detection Project
 
+## Team
+
+- [Mariana Luna Rocha](https://github.com/MarianaMoons), Data Science Bachelor student at ITAM.
+- [Victor Esparza](https://github.com/VictorHEsp), student of a double BS degree in Data Science and Actuarial Science at ITAM.
+- [Guillermo Arredondo](https://github.com/guillermoArr), student of a double BS degree in Data Science and Applied Mathematics at ITAM.
+- [Mauricio Vazquez](https://github.com/MauricioVazquezM), student of a double BS degree in Data Science and Actuarial Science at ITAM.
+- [Santiago Olvera](https://github.com/SantiOlvera), student of a double BS degree in Data Science and Actuarial Science at ITAM.
+- [Alvaro Lopez](https://github.com/Alvlopzam78), student of a double BS degree in Data Science and Applied Mathematics at ITAM.
+
+<br>
+
 ## Overview
 
 Skin cancer, specifically basal cell carcinoma (BCC), squamous cell carcinoma (SCC), and melanoma, affects millions of people each year.
@@ -11,15 +22,6 @@ Skin cancer, specifically basal cell carcinoma (BCC), squamous cell carcinoma (S
 - ***Mexican healthcare system:*** There are deep-rooted issues within the public healthcare system that require comprehensive and complex solutions.
 
 <br>
-
-## Team
-
-- [Mariana Luna Rocha](https://github.com/MarianaMoons), Data Science Bachelor student at ITAM.
-- [Victor Esparza](https://github.com/VictorHEsp), student of a double BS degree in Data Science and Actuarial Science at ITAM.
-- [Guillermo Arredondo](https://github.com/guillermoArr), student of a double BS degree in Data Science and Applied Mathematics at ITAM.
-- [Mauricio Vazquez](https://github.com/MauricioVazquezM), student of a double BS degree in Data Science and Actuarial Science at ITAM.
-- [Santiago Olvera](https://github.com/SantiOlvera), student of a double BS degree in Data Science and Actuarial Science at ITAM.
-- [Alvaro Lopez](https://github.com/Alvlopzam78), student of a double BS degree in Data Science and Applied Mathematics at ITAM.
 
 ## Objective
 
