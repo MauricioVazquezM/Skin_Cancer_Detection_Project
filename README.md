@@ -12,6 +12,15 @@ Skin cancer, specifically basal cell carcinoma (BCC), squamous cell carcinoma (S
 
 <br>
 
+## Team
+
+- [Mariana Luna Rocha](https://github.com/MarianaMoons), Data Science Bachelor student at ITAM.
+- [Victor Esparza](https://github.com/VictorHEsp), student of a double BS degree in Data Science and Actuarial Science at ITAM.
+- [Guillermo Arredondo](https://github.com/guillermoArr), student of a double BS degree in Data Science and Applied Mathematics at ITAM.
+- [Mauricio Vazquez](https://github.com/MauricioVazquezM), student of a double BS degree in Data Science and Actuarial Science at ITAM.
+- [Santiago Olvera](https://github.com/SantiOlvera), student of a double BS degree in Data Science and Actuarial Science at ITAM.
+- [Alvaro Lopez](https://github.com/Alvlopzam78), student of a double BS degree in Data Science and Applied Mathematics at ITAM.
+
 ## Objective
 
 The objective of this project is to develop a technological solution that enables individuals to assess their own skin lesions through automated image analysis, facilitating early detection and improving patient outcomes. The system will be designed to ensure high accuracy in identifying malignant lesions, with a focus on maximizing the partial area under the ROC curve (pAUC) while achieving a true positive rate (TPR) above 80%. This will guarantee high sensitivity, particularly in detecting malignancies, which is critical for timely intervention and effective treatment.
